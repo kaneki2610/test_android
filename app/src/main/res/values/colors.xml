@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#0c7e46</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="test">#0f9d58</color>
+    <color name="test_chu">#8fdbb6</color>
+    <color name="test_google">#b9b4b4</color>
+    <color name="test_tab2">#757575</color>
+    <color name="test_tab">#a3a0a0</color>
+    <color name="test_noidung">#252525</color>
+
+</resources>
